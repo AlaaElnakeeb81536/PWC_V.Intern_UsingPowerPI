@@ -14,6 +14,8 @@ The organisation is keen to know the possible customers who are likely to churn.
 In this Dashboard, we create KPIs around demographics, company service and customer profiling to know which of them have the highest
 chance of getting churned. The analysis depicts some key insights that will help the board member take steps in future to reduce the churning rate and increase customer loyalty.
 
+
+
 ## HR Analytics - Diversity and Inclusivity
 Here, we create a dashboard on the employee participation in the organisation. We define the key KPIs like, New Hires, Promotions,
 Employee Exits and Employee Gender ratio to understand the situation of diversity and inclusivity in the workforce. Enabling diversity 
