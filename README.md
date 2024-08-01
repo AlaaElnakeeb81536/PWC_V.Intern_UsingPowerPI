@@ -30,7 +30,10 @@ Here, we create a dashboard on the employee participation in the organisation. W
 Employee Exits and Employee Gender ratio to understand the situation of diversity and inclusivity in the workforce. Enabling diversity 
 and eliminating gender-based stereotyping is key to the balanced workforce and company success.
 ## Page 1
+![image](https://github.com/user-attachments/assets/c91810fc-6cee-4450-b4ae-df38b9df3107)
+
 ## Page 2
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/595e3dac-20bf-4508-a806-467380c1fa5b)
+
 
 
